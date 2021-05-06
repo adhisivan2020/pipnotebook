@@ -1,7 +1,7 @@
-"student_name","age","class","section"
-"ajay",12,"VII","B"
-"mani",12,"VII","B"
-"raj",12,"VII","C"
-"baskar",12,"VII","B"
-"velan",12,"VII","C"
-"muthu",12,"VII","B"
+"student_name","age","class","section","average"
+"ajay",12,"VII","B",72
+"mani",12,"VII","B",65
+"raj",12,"VII","C",70
+"baskar",12,"VII","B",88
+"velan",12,"VII","C",90
+"muthu",12,"VII","B",15
